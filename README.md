@@ -1,3 +1,4 @@
 A dApp built with JavaScript and hosted on surge
 
-risee.surge.sh
+
+http://risee.surge.sh/
